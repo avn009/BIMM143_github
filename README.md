@@ -10,4 +10,4 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 - Class 6: R Functions Lab
 - Class 10: [code](https://github.com/avn009/BIMM143_github/blob/main/Class10/Class10.qmd)
 - Class 11: 
-- Class 17: COVID-19 Mini-Project
+- Class 17: [COVID-19 Mini-Project] (https://github.com/avn009/BIMM143_github/blob/main/Class17/Class17.md)
