@@ -15,4 +15,4 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 - Class 11: [Genome informatics]
 - Class 12: Transcript
 - Class 17: [COVID-19 Mini-Project](https://github.com/avn009/BIMM143_github/blob/main/Class17/Class17.md)
-- Class 19: [Mini Project: Investigating Pertussis Resurgence]()
+- Class 19: [Mini Project: Investigating Pertussis Resurgence](https://github.com/avn009/BIMM143_github/blob/main/Class%2019/Class19.qmd)
